@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+aiohttp-session
+python-multipart
+pillow
+pandas
+db-sqlite3
+markdown
+beautifulsoup4
